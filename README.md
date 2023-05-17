@@ -1,3 +1,3 @@
 # Community Classroom OP
 
--This community is amazing
+-This community is amazing.
