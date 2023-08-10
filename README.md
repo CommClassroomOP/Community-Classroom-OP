@@ -1,1 +1,3 @@
 # Community Classroom OP
+Starting a new Journey...
+Harshit Anand says this community is awesome.
