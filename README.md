@@ -1,2 +1,2 @@
 # Community Classroom OP
-Pratik Sahoo says sigma programmer community is great.
+Pratik says sigma programmer community is great.
