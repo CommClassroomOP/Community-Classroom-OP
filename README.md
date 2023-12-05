@@ -1,3 +1,4 @@
 # Community Classroom OP
 
-This is so amazing community which is true. 
+This is so amazing community which is True.
+
