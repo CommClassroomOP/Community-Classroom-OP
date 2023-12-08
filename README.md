@@ -1,3 +1,3 @@
 # Community Classroom OP
 
--Github is amazing.
+Github is amazing.
