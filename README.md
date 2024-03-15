@@ -1,2 +1,2 @@
-# Community Classroom OP
+have a good day,
 -siddhesh is github campus expert.
