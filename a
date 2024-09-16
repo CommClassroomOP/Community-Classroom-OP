@@ -1,0 +1,83 @@
+[33mcommit e620d47b063bb8361815c52361d62f0b53afb658[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mkartik[m[33m)[m
+Author: kartik pal <kartik.kumar1902@gmail.com>
+Date:   Sun Apr 21 00:01:10 2024 +0530
+
+    1
+    
+    2
+    commits merged
+
+[33mcommit 93bef174ce516967ffc4121eb14e5fea345ad2f4[m[33m ([m[1;31morigin/main[m[33m, [m[1;31morigin/kartik[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Kartik114 <76644198+Kartik114@users.noreply.github.com>
+Date:   Sat Apr 20 23:26:47 2024 +0530
+
+    Update README.md
+
+[33mcommit f5d03942b2ea3bfe919f64519b2184a9df1c5c51[m
+Merge: ea7fc75 2a874a6
+Author: Kartik114 <76644198+Kartik114@users.noreply.github.com>
+Date:   Sat Apr 20 23:08:46 2024 +0530
+
+    Merge pull request #3 from Kartik114/kartik
+    
+    final
+
+[33mcommit 2a874a61bb7be52cd52644faf5823dab65252e67[m
+Author: kartik pal <kartik.kumar1902@gmail.com>
+Date:   Sat Apr 20 23:00:21 2024 +0530
+
+    final
+
+[33mcommit ea7fc75873e2ba497434137d6652e678cd83ecb3[m
+Merge: dda9e40 b135041
+Author: Kartik114 <76644198+Kartik114@users.noreply.github.com>
+Date:   Sat Apr 20 22:58:19 2024 +0530
+
+    Merge pull request #2 from Kartik114/kartik
+    
+    third
+
+[33mcommit b13504196ff69b6afb74c83d1e6f52f57920e207[m
+Author: kartik pal <kartik.kumar1902@gmail.com>
+Date:   Sat Apr 20 22:56:25 2024 +0530
+
+    third
+
+[33mcommit dda9e404a72e14444c31a81182700d1b208c3ea1[m
+Merge: 1b29dae 7bed670
+Author: Kartik114 <76644198+Kartik114@users.noreply.github.com>
+Date:   Sat Apr 20 22:46:31 2024 +0530
+
+    Merge pull request #1 from Kartik114/kartik
+    
+    Kartik
+
+[33mcommit 7bed6702d351774cb1ee6dc881e1b62764b68261[m
+Author: kartik pal <kartik.kumar1902@gmail.com>
+Date:   Sat Apr 20 22:32:48 2024 +0530
+
+    second
+
+[33mcommit 17fed8da1fa1e3b9b608856946f6d5391e854dd9[m[33m ([m[1;32mkp[m[33m)[m
+Author: kartik pal <kartik.kumar1902@gmail.com>
+Date:   Sat Apr 20 20:47:21 2024 +0530
+
+    changed code
+
+[33mcommit 276ca492fcbe1c7205e559a4e2901a0a7e25f145[m
+Author: kartik pal <kartik.kumar1902@gmail.com>
+Date:   Sat Apr 20 20:14:49 2024 +0530
+
+    chead
+
+[33mcommit 1b29daeb56eafa0974ad1deccc4eb678c818a105[m[33m ([m[1;31mupstream/main[m[33m, [m[1;32mmain[m[33m)[m
+Author: CommunityClassroomOP <117530575+CommunityClassroomOP@users.noreply.github.com>
+Date:   Sat Nov 5 21:01:25 2022 +0500
+
+    Update README.md
+
+[33mcommit 944105083795f03329d64c9d75e103fbeae9cc91[m
+Author: CommunityClassroomOP <117530575+CommunityClassroomOP@users.noreply.github.com>
+Date:   Sat Nov 5 21:01:09 2022 +0500
+
+    Initial commit
