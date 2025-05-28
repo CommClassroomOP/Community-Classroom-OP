@@ -1,2 +1,2 @@
 # Community Classroom OP
-Ethan Lozoya says that this community is amazing.
+- Ethan Lozoya says that this community is amazing.
