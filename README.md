@@ -8,4 +8,6 @@ Ruby Chaan
 Hai
 Nani Ga suki!!
 Choco Minto
-Yorimo anata
+Yorimo anat
+This is from FE branch
+
